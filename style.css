@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.content{
+    background-color: rgb(229, 229, 178);
+    text-align: center;
+}
+input {
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 10px 20px;
+}
+button{
+    border-radius: 3px;
+    padding: 6px 12px;
+    background-color: rgb(189, 189, 61);
+    border: none;
+}
+button:hover{
+    background-color: rgb(29, 27, 27);
+    color: #fff;
+}
